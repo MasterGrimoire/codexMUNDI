@@ -1,13 +1,13 @@
 # Grimoire 5e JSON Data File Repository
 
-An ongoing project to keep track of D&amp;D stuff. These files are compatible with the Grimoire 5e iOS app (to be released sometime 2018). While excellent XML files already exist, it was important to keep control of the data format, in order to for Grimoire 5e to maintain an extremely high level of efficiency and presentability.
+This is an ongoing project to keep track of D&amp;D files. These files have been designed to be compatible with the 'Grimoire 5e' iOS app (release date sometime in Q3 2018 as I'm told by the developer).
 
-It is my hope that the community will help to keep these files updated as new content is released.
+It is my hope that the community will help to keep these files updated as new content is released - as well as to fix typos or other mistakes. Gooooo collaboration!
 
 
-## How to use these files
+## How to use these files in your app
 
-Make sure that you are on the 'master' branch. Look for the green button that says 'Clone or download'. Download the files to your computer, or save them to your icloud drive. From there, import them into Grimoire 5e.
+Make sure that you are on the 'master' branch. Look for the green button that says 'Clone or download'. Download the files to your computer, or save them to your icloud drive. From there, import them into the Grimoire app.
 
 These files contain all of the content from the following:
   - Player's Handbook
@@ -19,6 +19,7 @@ These files contain all of the content from the following:
   - Mordenkainen's Tome of Foes
 
 It also contains all the monsters, items, and character options from the published adventures, as well as the Elemental Evil Player's Companion.
+
 
 ## How to Contribute
 
