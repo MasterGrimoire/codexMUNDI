@@ -234,7 +234,7 @@ senses | String | "darkvision 60 ft." | Y |
 passive | Integer | 15 | Y | Passive perception
 languages | String | "Common" | Y |
 cr | String | "1/4" | Y | Challange rating is as a string due to 1/2, 1/4, etc. ratings
-trait | TRAIT Array | See **Custom JSON Objects** below for details | N | Details on the creature
+trait | TRAIT<br>or<br>TRAIT Array | See **Custom JSON Objects** below for details | N | Details on the creature
 reaction | TRAIT object | See **Custom JSON Objects** below for details | N | Details on a specific reaction a creature might have
 action | ACTION Array | See **Custom JSON Objects** below for details | N | Actions that creatures can take
 legendary | ACTION Array | See **Custom JSON Objects** below for details | N | Legendary actions that a legendary creature can take
