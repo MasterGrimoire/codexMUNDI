@@ -1,6 +1,6 @@
 # Grimoire 5e JSON Data File Repository
 
-TestThis is an ongoing project to keep track of D&amp;D files. These files have been designed to be compatible with the 'Grimoire 5e' iOS app (release date sometime in Q3 2018 as I'm told by the developer).
+This is an ongoing project to keep track of D&amp;D files. These files have been designed to be compatible with the 'Grimoire 5e' iOS app (release date sometime in Q3 2018 as I'm told by the developer).
 
 It is my hope that the community will help to keep these files updated as new content is released - as well as to fix typos or other mistakes. Gooooo collaboration!
 
@@ -38,7 +38,12 @@ Afterwards, pull the repo. Please make sure to create your own branch with a des
     example if making a prearranged large feature
     monsters/mordenkainens_tome_of_foes_part2
 
-Furthermore, please make sure that your commits are clear.
+Ensure that your commits are clear and concise, and would easily finish the following sentence: "This commit will..."
+
+    example commit:
+    "Fix a typo in Aid spell"
+    or
+    "Add three monsters from Mordenkainen's Tome of Foes"
 
 Note: when adding objects to a file, it is preferred that they are added at the end of the file. It is good practice to keep a limit on changes. Unwieldy, large PR's must be discussed beforehand; generally, however, they will be rejected. Adding five objects to a file is considered acceptable; more is considered unwieldy. If comments are made to your PR, please address them in a timely fashion. After a PR has been approved, it will be merged in by a moderator and that branch will be deleted. As such, make sure to not have anything else that you need there.
 
@@ -47,7 +52,7 @@ Note: when adding objects to a file, it is preferred that they are added at the 
 
 ## Why JSON and not XML?
 
-It seems that the overall preference of the users that have made these types of files available to the D&D community has been to use XML files. Grimoire 5e has taken a different approach and decided to use JSON files for the following reasons:
+It seems that the overall preference of the users that have made these types of files available to the D&D community has been to use XML files. The developer of Grimoire 5e seems to have taken a different approach and decided to use JSON files for the following reasons:
 
   1. JSON requires less tags than XML – XML items must be wrapped in open and close tags whereas JSON you just name the tag once.
   2. Parsing JSON objects is faster. Parsing XML is slow and cumbersome. Many parsing libraries can use large amounts of memory due to the verbosity and cost of parsing large XML files.
@@ -68,11 +73,11 @@ These files model the D&D universe by splitting it into eight categories:
   - Monsters
   - Unearthed Arcana
 
-Because Grimoire 5e has many sort functions to view items/monsters/etc. and finding anything is quite easy, it was decided that, rather than maintaining several different file sets for different addons (Modern items, or PHB compendiumn, Volo's compendium, etc), it would be more efficient to maintain a file for each category. Certainly, this means you have to import each file separately. While this may seem cumbersome, it is much less cumbersome than attempting to maintain a JSON file of a nearly a million lines. Finally, it is of no importance that objects within the JSON blobs be in any particular order - alphabetical or whatever. However, when adding objects to a file, it is preferred that they are added at the end of the file helping to establish a chronology of items added.
+Because of the plethora of sorting functions to view items/monsters/etc. in the app makes finding anything quite easy, it was decided that, rather than maintaining several different file sets for different addons (Modern items, or PHB compendiumn, Volo's compendium, etc), it would be more efficient to maintain a file for each category. Certainly, this means you have to import each file separately. While this may seem cumbersome, it is much less cumbersome than attempting to maintain a JSON file of a nearly a million lines. Finally, it is of no importance that objects within the JSON blobs be in any particular order - alphabetical or whatever. However, when adding objects to a file, it is preferred that they are added at the end of the file helping to establish a chronology of items added.
 
 Why is Unearthed Arcana separate? Not everyone wants that content. The idea is to have official content easily accessible with Unearthed Arcana, or your own homebrew files loaded on top.
 
-Generally JSON file will have the following structure, with the exception of Unearthed Arcana. Any new objects that are added, must be added in the respective files, within the respective brackets. For example, the CodexITEMS.json file will look like this:
+Generally, the JSON files will have the following structure, with the exception of Unearthed Arcana. Any new objects that are added, must be added in the respective files, within the respective brackets. For example, the CodexITEMS.json file will look like this:
 
     {
         "item": [
@@ -82,7 +87,7 @@ Generally JSON file will have the following structure, with the exception of Une
         ]
     }
 
-Unearthed Arcana will contain all the categories together:
+Unearthed Arcana will contain all the categories together. The template that I've been given by the developer which contains the Deault SRD Open Gaming Content is arranged in this fashion - which explains why the other files have a seemingly unnecessary top level json blob.
 
     {
         "item": [
@@ -97,7 +102,7 @@ Unearthed Arcana will contain all the categories together:
 
 ## Model structure
 
-In this section, I will outline the expected JSON tags for each category. Failing to adhere to these tags and structure will cause your PR to be rejected or, worse, information to not show up in Grimoire 5e. In general, the JSON file for an object will look something like this.
+In this section, I will outline the expected JSON tags for each category - these are based on a default template I've received from beta testing the Grimoire's import file option. Failing to adhere to these tags and structure will cause your PR to be rejected.
 
 ### codexSPELLS.json
 
