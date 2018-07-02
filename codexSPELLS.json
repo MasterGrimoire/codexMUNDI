@@ -45,7 +45,7 @@
     },
     {
       "name": "Acid Splash",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "C",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Aid",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "A",
@@ -148,7 +148,7 @@
     },
     {
       "name": "Alarm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -189,7 +189,7 @@
     },
     {
       "name": "Alter Self",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Animal Friendship",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -250,7 +250,7 @@
     },
     {
       "name": "Animal Messenger",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
@@ -294,7 +294,7 @@
     },
     {
       "name": "Animal Shapes",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "T",
@@ -314,7 +314,7 @@
     },
     {
       "name": "Animate Dead",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "N",
@@ -357,7 +357,7 @@
     },
     {
       "name": "Animate Objects",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "T",
@@ -415,7 +415,7 @@
     },
     {
       "name": "Antilife Shell",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "A",
@@ -455,7 +455,7 @@
     },
     {
       "name": "Antimagic Field",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "A",
@@ -481,7 +481,7 @@
     },
     {
       "name": "Antipathy/Sympathy",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EN",
@@ -503,7 +503,7 @@
     },
     {
       "name": "Arcane Eye",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "D",
@@ -661,7 +661,7 @@
     },
     {
       "name": "Astral Projection",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "N",
@@ -684,7 +684,7 @@
     },
     {
       "name": "Augury",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -853,7 +853,7 @@
     },
     {
       "name": "Awaken",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "T",
@@ -872,7 +872,7 @@
     },
     {
       "name": "Bane",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -945,7 +945,7 @@
     },
     {
       "name": "Banishment",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "A",
@@ -989,7 +989,7 @@
     },
     {
       "name": "Barkskin",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -1041,7 +1041,7 @@
     },
     {
       "name": "Beacon of Hope",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -1184,7 +1184,7 @@
     },
     {
       "name": "Bestow Curse",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "N",
@@ -1259,7 +1259,7 @@
     },
     {
       "name": "Blade Barrier",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -1311,7 +1311,7 @@
     },
     {
       "name": "Bless",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -1351,7 +1351,7 @@
     },
     {
       "name": "Blight",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "N",
@@ -1428,7 +1428,7 @@
     },
     {
       "name": "Blindness/Deafness",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "N",
@@ -1468,7 +1468,7 @@
     },
     {
       "name": "Blink",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -1506,7 +1506,7 @@
     },
     {
       "name": "Blur",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -1628,7 +1628,7 @@
     },
     {
       "name": "Burning Hands",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -1685,7 +1685,7 @@
     },
     {
       "name": "Call Lightning",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -1728,7 +1728,7 @@
     },
     {
       "name": "Calm Emotions",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
@@ -1897,7 +1897,7 @@
     },
     {
       "name": "Chain Lightning",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -1947,7 +1947,7 @@
     },
     {
       "name": "Charm Person",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -1987,7 +1987,7 @@
     },
     {
       "name": "Chill Touch",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "N",
@@ -2025,7 +2025,7 @@
     },
     {
       "name": "Circle of Death",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "N",
@@ -2080,7 +2080,7 @@
     },
     {
       "name": "Clairvoyance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "D",
@@ -2124,7 +2124,7 @@
     },
     {
       "name": "Clone",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "N",
@@ -2162,7 +2162,7 @@
     },
     {
       "name": "Cloudkill",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "C",
@@ -2205,7 +2205,7 @@
     },
     {
       "name": "Color Spray",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "I",
@@ -2225,7 +2225,7 @@
     },
     {
       "name": "Command",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -2292,7 +2292,7 @@
     },
     {
       "name": "Commune",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -2449,7 +2449,7 @@
     },
     {
       "name": "Commune with Nature",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -2564,7 +2564,7 @@
     },
     {
       "name": "Comprehend Languages",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -2623,7 +2623,7 @@
     },
     {
       "name": "Compulsion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EN",
@@ -2661,7 +2661,7 @@
     },
     {
       "name": "Cone of Cold",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -2702,7 +2702,7 @@
     },
     {
       "name": "Confusion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EN",
@@ -2754,7 +2754,7 @@
     },
     {
       "name": "Conjure Animals",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -2817,7 +2817,7 @@
     },
     {
       "name": "Conjure Celestial",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "C",
@@ -2838,7 +2838,7 @@
     },
     {
       "name": "Conjure Elemental",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "C",
@@ -2882,7 +2882,7 @@
     },
     {
       "name": "Conjure Fey",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -2968,7 +2968,7 @@
     },
     {
       "name": "Conjure Minor Elementals",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -3052,7 +3052,7 @@
     },
     {
       "name": "Conjure Woodland Beings",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -3077,7 +3077,7 @@
     },
     {
       "name": "Contact Other Plane",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -3117,7 +3117,7 @@
     },
     {
       "name": "Contagion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "N",
@@ -3169,7 +3169,7 @@
     },
     {
       "name": "Contingency",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -3189,7 +3189,7 @@
     },
     {
       "name": "Continual Flame",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -3232,7 +3232,7 @@
     },
     {
       "name": "Control Water",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "T",
@@ -3276,7 +3276,7 @@
     },
     {
       "name": "Control Weather",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "T",
@@ -3389,7 +3389,7 @@
     },
     {
       "name": "Counterspell",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -3452,7 +3452,7 @@
     },
     {
       "name": "Create Food and Water",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -3488,7 +3488,7 @@
     },
     {
       "name": "Create or Destroy Water",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -3510,7 +3510,7 @@
     },
     {
       "name": "Create Undead",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "N",
@@ -3532,7 +3532,7 @@
     },
     {
       "name": "Creation",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "I",
@@ -3724,7 +3724,7 @@
     },
     {
       "name": "Cure Wounds",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -3763,7 +3763,7 @@
     },
     {
       "name": "Dancing Lights",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -3782,7 +3782,7 @@
     },
     {
       "name": "Darkness",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -3822,7 +3822,7 @@
     },
     {
       "name": "Darkvision",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -3840,7 +3840,7 @@
     },
     {
       "name": "Daylight",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -3880,7 +3880,7 @@
     },
     {
       "name": "Death Ward",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "A",
@@ -3916,7 +3916,7 @@
     },
     {
       "name": "Delayed Blast Fireball",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "EV",
@@ -3956,7 +3956,7 @@
     },
     {
       "name": "Demiplane",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "C",
@@ -4012,7 +4012,7 @@
     },
     {
       "name": "Detect Evil and Good",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -4030,7 +4030,7 @@
     },
     {
       "name": "Detect Magic",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -4089,7 +4089,7 @@
     },
     {
       "name": "Detect Poison and Disease",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -4129,7 +4129,7 @@
     },
     {
       "name": "Detect Thoughts",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -4170,7 +4170,7 @@
     },
     {
       "name": "Dimension Door",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -4248,7 +4248,7 @@
     },
     {
       "name": "Disguise Self",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "I",
@@ -4288,7 +4288,7 @@
     },
     {
       "name": "Disintegrate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "T",
@@ -4310,7 +4310,7 @@
     },
     {
       "name": "Dispel Evil and Good",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "A",
@@ -4330,7 +4330,7 @@
     },
     {
       "name": "Dispel Magic",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -4403,7 +4403,7 @@
     },
     {
       "name": "Divination",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "D",
@@ -4465,7 +4465,7 @@
     },
     {
       "name": "Divine Favor",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -4500,7 +4500,7 @@
     },
     {
       "name": "Divine Word",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "EV",
@@ -4523,7 +4523,7 @@
     },
     {
       "name": "Dominate Beast",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EN",
@@ -4569,7 +4569,7 @@
     },
     {
       "name": "Dominate Monster",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EN",
@@ -4592,7 +4592,7 @@
     },
     {
       "name": "Dominate Person",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EN",
@@ -4638,7 +4638,7 @@
     },
     {
       "name": "Drawmij's Instant Summon",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -4682,7 +4682,7 @@
     },
     {
       "name": "Dream",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "I",
@@ -4724,7 +4724,7 @@
     },
     {
       "name": "Druidcraft",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -4793,7 +4793,7 @@
     },
     {
       "name": "Earthquake",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EV",
@@ -4816,7 +4816,7 @@
     },
     {
       "name": "Eldritch Blast",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -4927,7 +4927,7 @@
     },
     {
       "name": "Enhance Ability",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -4979,7 +4979,7 @@
     },
     {
       "name": "Enlarge/Reduce",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -5039,7 +5039,7 @@
     },
     {
       "name": "Entangle",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -5059,7 +5059,7 @@
     },
     {
       "name": "Enthrall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
@@ -5077,7 +5077,7 @@
     },
     {
       "name": "Etherealness",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "T",
@@ -5101,7 +5101,7 @@
     },
     {
       "name": "Evard's Black Tentacles",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -5134,7 +5134,7 @@
     },
     {
       "name": "Expeditious Retreat",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -5170,7 +5170,7 @@
     },
     {
       "name": "Eyebite",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "N",
@@ -5191,7 +5191,7 @@
     },
     {
       "name": "Fabricate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EV",
@@ -5231,7 +5231,7 @@
     },
     {
       "name": "Faerie Fire",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -5269,7 +5269,7 @@
     },
     {
       "name": "False Life",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "N",
@@ -5324,7 +5324,7 @@
     },
     {
       "name": "Fear",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "I",
@@ -5362,7 +5362,7 @@
     },
     {
       "name": "Feather Fall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -5380,7 +5380,7 @@
     },
     {
       "name": "Feeblemind",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EN",
@@ -5455,7 +5455,7 @@
     },
     {
       "name": "Find Familiar",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -5503,7 +5503,7 @@
     },
     {
       "name": "Find Steed",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "C",
@@ -5525,7 +5525,7 @@
     },
     {
       "name": "Find the Path",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "D",
@@ -5544,7 +5544,7 @@
     },
     {
       "name": "Find Traps",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -5607,7 +5607,7 @@
     },
     {
       "name": "Finger of Death",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "N",
@@ -5625,7 +5625,7 @@
     },
     {
       "name": "Fire Bolt",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -5643,7 +5643,7 @@
     },
     {
       "name": "Fire Shield",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EV",
@@ -5662,7 +5662,7 @@
     },
     {
       "name": "Fire Storm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "EV",
@@ -5680,7 +5680,7 @@
     },
     {
       "name": "Fireball",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -5760,7 +5760,7 @@
     },
     {
       "name": "Flame Blade",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -5781,7 +5781,7 @@
     },
     {
       "name": "Flame Strike",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -5843,7 +5843,7 @@
     },
     {
       "name": "Flaming Sphere",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "C",
@@ -5886,7 +5886,7 @@
     },
     {
       "name": "Flesh to Stone",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "T",
@@ -5907,7 +5907,7 @@
     },
     {
       "name": "Fly",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -5927,7 +5927,7 @@
     },
     {
       "name": "Fog Cloud",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -5967,7 +5967,7 @@
     },
     {
       "name": "Forbiddance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "A",
@@ -6009,7 +6009,7 @@
     },
     {
       "name": "Forcecage",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "EV",
@@ -6032,7 +6032,7 @@
     },
     {
       "name": "Foresight",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "D",
@@ -6051,7 +6051,7 @@
     },
     {
       "name": "Freedom of Movement",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "A",
@@ -6107,7 +6107,7 @@
     },
     {
       "name": "Gaseous Form",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -6147,7 +6147,7 @@
     },
     {
       "name": "Gate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "C",
@@ -6168,7 +6168,7 @@
     },
     {
       "name": "Geas",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EN",
@@ -6212,7 +6212,7 @@
     },
     {
       "name": "Gentle Repose",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "N",
@@ -6291,7 +6291,7 @@
     },
     {
       "name": "Giant Insect",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "T",
@@ -6312,7 +6312,7 @@
     },
     {
       "name": "Glibness",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "T",
@@ -6330,7 +6330,7 @@
     },
     {
       "name": "Globe of Invulnerability",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "A",
@@ -6351,7 +6351,7 @@
     },
     {
       "name": "Glyph of Warding",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -6413,7 +6413,7 @@
     },
     {
       "name": "Goodberry",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -6486,7 +6486,7 @@
     },
     {
       "name": "Grease",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -6505,7 +6505,7 @@
     },
     {
       "name": "Greater Invisibility",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "I",
@@ -6541,7 +6541,7 @@
     },
     {
       "name": "Greater Restoration",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "A",
@@ -6582,7 +6582,7 @@
     },
     {
       "name": "Guardian of Faith",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -6620,7 +6620,7 @@
     },
     {
       "name": "Guards and Wards",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "A",
@@ -6650,7 +6650,7 @@
     },
     {
       "name": "Guidance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "D",
@@ -6667,7 +6667,7 @@
     },
     {
       "name": "Guiding Bolt",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -6707,7 +6707,7 @@
     },
     {
       "name": "Gust of Wind",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -6768,7 +6768,7 @@
     },
     {
       "name": "Hallow",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -6798,7 +6798,7 @@
     },
     {
       "name": "Hallucinatory Terrain",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "I",
@@ -6854,7 +6854,7 @@
     },
     {
       "name": "Harm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "N",
@@ -6871,7 +6871,7 @@
     },
     {
       "name": "Haste",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -6939,7 +6939,7 @@
     },
     {
       "name": "Heal",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -6977,7 +6977,7 @@
     },
     {
       "name": "Healing Word",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -6996,7 +6996,7 @@
     },
     {
       "name": "Heat Metal",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -7037,7 +7037,7 @@
     },
     {
       "name": "Hellish Rebuke",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -7076,7 +7076,7 @@
     },
     {
       "name": "Heroes' Feast",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -7094,7 +7094,7 @@
     },
     {
       "name": "Heroism",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -7155,7 +7155,7 @@
     },
     {
       "name": "Hold Monster",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EN",
@@ -7195,7 +7195,7 @@
     },
     {
       "name": "Hold Person",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
@@ -7235,7 +7235,7 @@
     },
     {
       "name": "Holy Aura",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "A",
@@ -7271,7 +7271,7 @@
     },
     {
       "name": "Hunter's Mark",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -7310,7 +7310,7 @@
     },
     {
       "name": "Hypnotic Pattern",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "I",
@@ -7348,7 +7348,7 @@
     },
     {
       "name": "Ice Storm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EV",
@@ -7389,7 +7389,7 @@
     },
     {
       "name": "Identify",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -7448,7 +7448,7 @@
     },
     {
       "name": "Illusory Script",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "I",
@@ -7492,7 +7492,7 @@
     },
     {
       "name": "Imprisonment",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "A",
@@ -7524,7 +7524,7 @@
     },
     {
       "name": "Incendiary Cloud",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "C",
@@ -7582,7 +7582,7 @@
     },
     {
       "name": "Inflict Wounds",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "N",
@@ -7621,7 +7621,7 @@
     },
     {
       "name": "Insect Plague",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "C",
@@ -7684,7 +7684,7 @@
     },
     {
       "name": "Invisibility",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -7765,7 +7765,7 @@
     },
     {
       "name": "Jump",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -7783,7 +7783,7 @@
     },
     {
       "name": "Knock",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -7804,7 +7804,7 @@
     },
     {
       "name": "Legend Lore",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -7842,7 +7842,7 @@
     },
     {
       "name": "Leomund's Secret Chest",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -7882,7 +7882,7 @@
     },
     {
       "name": "Leomund's Tiny Hut",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -7924,7 +7924,7 @@
     },
     {
       "name": "Lesser Restoration",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "A",
@@ -7960,7 +7960,7 @@
     },
     {
       "name": "Levitate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -7980,7 +7980,7 @@
     },
     {
       "name": "Light",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -8036,7 +8036,7 @@
     },
     {
       "name": "Lightning Bolt",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -8095,7 +8095,7 @@
     },
     {
       "name": "Locate Animals or Plants",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -8133,7 +8133,7 @@
     },
     {
       "name": "Locate Creature",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "D",
@@ -8173,7 +8173,7 @@
     },
     {
       "name": "Locate Object",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -8193,7 +8193,7 @@
     },
     {
       "name": "Longstrider",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -8227,7 +8227,7 @@
     },
     {
       "name": "Mage Armor",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -8245,7 +8245,7 @@
     },
     {
       "name": "Mage Hand",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "C",
@@ -8265,7 +8265,7 @@
     },
     {
       "name": "Magic Circle",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -8315,7 +8315,7 @@
     },
     {
       "name": "Magic Jar",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "N",
@@ -8339,7 +8339,7 @@
     },
     {
       "name": "Magic Missile",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -8378,7 +8378,7 @@
     },
     {
       "name": "Magic Mouth",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -8420,7 +8420,7 @@
     },
     {
       "name": "Magic Weapon",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -8460,7 +8460,7 @@
     },
     {
       "name": "Major Image",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "I",
@@ -8637,7 +8637,7 @@
     },
     {
       "name": "Mass Cure Wounds",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -8676,7 +8676,7 @@
     },
     {
       "name": "Mass Heal",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "EV",
@@ -8694,7 +8694,7 @@
     },
     {
       "name": "Mass Healing Word",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -8733,7 +8733,7 @@
     },
     {
       "name": "Mass Suggestion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EN",
@@ -8989,7 +8989,7 @@
     },
     {
       "name": "Maze",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "C",
@@ -9009,7 +9009,7 @@
     },
     {
       "name": "Meld into Stone",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -9073,7 +9073,7 @@
     },
     {
       "name": "Melf's Acid Arrow",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -9126,7 +9126,7 @@
     },
     {
       "name": "Mending",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -9145,7 +9145,7 @@
     },
     {
       "name": "Message",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -9164,7 +9164,7 @@
     },
     {
       "name": "Meteor Swarm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "EV",
@@ -9182,7 +9182,7 @@
     },
     {
       "name": "Mind Blank",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "A",
@@ -9250,7 +9250,7 @@
     },
     {
       "name": "Minor Illusion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "I",
@@ -9271,7 +9271,7 @@
     },
     {
       "name": "Mirage Arcane",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "I",
@@ -9292,7 +9292,7 @@
     },
     {
       "name": "Mirror Image",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -9336,7 +9336,7 @@
     },
     {
       "name": "Mislead",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "I",
@@ -9355,7 +9355,7 @@
     },
     {
       "name": "Misty Step",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "C",
@@ -9391,7 +9391,7 @@
     },
     {
       "name": "Modify Memory",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EN",
@@ -9439,7 +9439,7 @@
     },
     {
       "name": "Moonbeam",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -9484,7 +9484,7 @@
     },
     {
       "name": "Mordenkainen's Faithful Hound",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "C",
@@ -9503,7 +9503,7 @@
     },
     {
       "name": "Mordenkainen's Magnificent Mansion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "C",
@@ -9523,7 +9523,7 @@
     },
     {
       "name": "Mordenkainen's Private Sanctum",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "A",
@@ -9569,7 +9569,7 @@
     },
     {
       "name": "Move Earth",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "T",
@@ -9729,7 +9729,7 @@
     },
     {
       "name": "Nondetection",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -9765,7 +9765,7 @@
     },
     {
       "name": "Nystul's Magic Aura",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -9826,7 +9826,7 @@
     },
     {
       "name": "Otiluke's Freezing Sphere",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -9848,7 +9848,7 @@
     },
     {
       "name": "Otiluke's Resilient Sphere",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EV",
@@ -9889,7 +9889,7 @@
     },
     {
       "name": "Otto's Irresistible Dance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EN",
@@ -9923,7 +9923,7 @@
     },
     {
       "name": "Pass Without Trace",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "A",
@@ -9959,7 +9959,7 @@
     },
     {
       "name": "Passwall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "T",
@@ -10018,7 +10018,7 @@
     },
     {
       "name": "Phantasmal Killer",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "I",
@@ -10037,7 +10037,7 @@
     },
     {
       "name": "Phantom Steed",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "I",
@@ -10093,7 +10093,7 @@
     },
     {
       "name": "Planar Ally",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -10116,7 +10116,7 @@
     },
     {
       "name": "Planar Binding",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "A",
@@ -10158,7 +10158,7 @@
     },
     {
       "name": "Plane Shift",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "C",
@@ -10178,7 +10178,7 @@
     },
     {
       "name": "Plant Growth",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -10220,7 +10220,7 @@
     },
     {
       "name": "Poison Spray",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "C",
@@ -10238,7 +10238,7 @@
     },
     {
       "name": "Polymorph",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "T",
@@ -10302,7 +10302,7 @@
     },
     {
       "name": "Power Word Kill",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "EN",
@@ -10320,7 +10320,7 @@
     },
     {
       "name": "Power Word Stun",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EN",
@@ -10339,7 +10339,7 @@
     },
     {
       "name": "Prayer of Healing",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -10396,7 +10396,7 @@
     },
     {
       "name": "Prestidigitation",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -10441,7 +10441,7 @@
     },
     {
       "name": "Prismatic Spray",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "EV",
@@ -10466,7 +10466,7 @@
     },
     {
       "name": "Prismatic Wall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "A",
@@ -10500,7 +10500,7 @@
     },
     {
       "name": "Produce Flame",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "C",
@@ -10519,7 +10519,7 @@
     },
     {
       "name": "Programmed Illusion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "I",
@@ -10540,7 +10540,7 @@
     },
     {
       "name": "Project Image",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "I",
@@ -10597,7 +10597,7 @@
     },
     {
       "name": "Protection from Energy",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -10633,7 +10633,7 @@
     },
     {
       "name": "Protection from Evil and Good",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -10671,7 +10671,7 @@
     },
     {
       "name": "Protection from Poison",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "A",
@@ -10889,7 +10889,7 @@
     },
     {
       "name": "Purify Food and Drink",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "T",
@@ -10941,7 +10941,7 @@
     },
     {
       "name": "Raise Dead",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "N",
@@ -10998,7 +10998,7 @@
     },
     {
       "name": "Rary's Telepathic Bond",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -11038,7 +11038,7 @@
     },
     {
       "name": "Ray of Enfeeblement",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "N",
@@ -11076,7 +11076,7 @@
     },
     {
       "name": "Ray of Frost",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -11133,7 +11133,7 @@
     },
     {
       "name": "Regenerate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "T",
@@ -11151,7 +11151,7 @@
     },
     {
       "name": "Reincarnate",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "T",
@@ -11222,7 +11222,7 @@
     },
     {
       "name": "Remove Curse",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "A",
@@ -11240,7 +11240,7 @@
     },
     {
       "name": "Resistance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "A",
@@ -11257,7 +11257,7 @@
     },
     {
       "name": "Resurrection",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "N",
@@ -11279,7 +11279,7 @@
     },
     {
       "name": "Reverse Gravity",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "T",
@@ -11299,7 +11299,7 @@
     },
     {
       "name": "Revivify",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "N",
@@ -11350,7 +11350,7 @@
     },
     {
       "name": "Rope Trick",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -11394,7 +11394,7 @@
     },
     {
       "name": "Sacred Flame",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -11412,7 +11412,7 @@
     },
     {
       "name": "Sanctuary",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -11450,7 +11450,7 @@
     },
     {
       "name": "Scorching Ray",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -11491,7 +11491,7 @@
     },
     {
       "name": "Scrying",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "D",
@@ -11594,7 +11594,7 @@
     },
     {
       "name": "See Invisibility",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "D",
@@ -11628,7 +11628,7 @@
     },
     {
       "name": "Seeming",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "I",
@@ -11649,7 +11649,7 @@
     },
     {
       "name": "Sending",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -11686,7 +11686,7 @@
     },
     {
       "name": "Sequester",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "T",
@@ -11739,7 +11739,7 @@
     },
     {
       "name": "Shapechange",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "T",
@@ -11762,7 +11762,7 @@
     },
     {
       "name": "Shatter",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -11803,7 +11803,7 @@
     },
     {
       "name": "Shield",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -11821,7 +11821,7 @@
     },
     {
       "name": "Shield of Faith",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "A",
@@ -11857,7 +11857,7 @@
     },
     {
       "name": "Shillelagh",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -11874,7 +11874,7 @@
     },
     {
       "name": "Shocking Grasp",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EV",
@@ -11930,7 +11930,7 @@
     },
     {
       "name": "Silence",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "I",
@@ -11985,7 +11985,7 @@
     },
     {
       "name": "Silent Image",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "I",
@@ -12005,7 +12005,7 @@
     },
     {
       "name": "Simulacrum",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "I",
@@ -12026,7 +12026,7 @@
     },
     {
       "name": "Sleep",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -12069,7 +12069,7 @@
     },
     {
       "name": "Sleet Storm",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -12110,7 +12110,7 @@
     },
     {
       "name": "Slow",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -12178,7 +12178,7 @@
     },
     {
       "name": "Spare the Dying",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "N",
@@ -12196,7 +12196,7 @@
     },
     {
       "name": "Speak with Animals",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "D",
@@ -12290,7 +12290,7 @@
     },
     {
       "name": "Speak with Plants",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -12312,7 +12312,7 @@
     },
     {
       "name": "Spider Climb",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -12348,7 +12348,7 @@
     },
     {
       "name": "Spike Growth",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "T",
@@ -12386,7 +12386,7 @@
     },
     {
       "name": "Spirit Guardians",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -12427,7 +12427,7 @@
     },
     {
       "name": "Spiritual Weapon",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EV",
@@ -12487,7 +12487,7 @@
     },
     {
       "name": "Stinking Cloud",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "C",
@@ -12527,7 +12527,7 @@
     },
     {
       "name": "Stone Shape",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "T",
@@ -12563,7 +12563,7 @@
     },
     {
       "name": "Stoneskin",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "A",
@@ -12599,7 +12599,7 @@
     },
     {
       "name": "Storm of Vengeance",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "C",
@@ -12639,7 +12639,7 @@
     },
     {
       "name": "Suggestion",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
@@ -12681,7 +12681,7 @@
     },
     {
       "name": "Sunbeam",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -12700,7 +12700,7 @@
     },
     {
       "name": "Sunburst",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 8,
       "school": "EV",
@@ -12792,7 +12792,7 @@
     },
     {
       "name": "Symbol",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "A",
@@ -12880,7 +12880,7 @@
     },
     {
       "name": "Tasha's Hideous Laughter",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EN",
@@ -12899,7 +12899,7 @@
     },
     {
       "name": "Telekinesis",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "T",
@@ -12967,7 +12967,7 @@
     },
     {
       "name": "Teleport",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 7,
       "school": "C",
@@ -13000,7 +13000,7 @@
     },
     {
       "name": "Teleportation Circle",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "C",
@@ -13040,7 +13040,7 @@
     },
     {
       "name": "Tenser's Floating Disk",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -13082,7 +13082,7 @@
     },
     {
       "name": "Thaumaturgy",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "T",
@@ -13167,7 +13167,7 @@
     },
     {
       "name": "Thunderwave",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "EV",
@@ -13210,7 +13210,7 @@
     },
     {
       "name": "Time Stop",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "T",
@@ -13247,7 +13247,7 @@
     },
     {
       "name": "Tongues",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "D",
@@ -13265,7 +13265,7 @@
     },
     {
       "name": "Transport via Plants",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -13283,7 +13283,7 @@
     },
     {
       "name": "Tree Stride",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "C",
@@ -13335,7 +13335,7 @@
     },
     {
       "name": "True Polymorph",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "T",
@@ -13362,7 +13362,7 @@
     },
     {
       "name": "True Resurrection",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "N",
@@ -13382,7 +13382,7 @@
     },
     {
       "name": "True Seeing",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "D",
@@ -13400,7 +13400,7 @@
     },
     {
       "name": "True Strike",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "D",
@@ -13457,7 +13457,7 @@
     },
     {
       "name": "Unseen Servant",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 1,
       "school": "C",
@@ -13499,7 +13499,7 @@
     },
     {
       "name": "Vampiric Touch",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "N",
@@ -13538,7 +13538,7 @@
     },
     {
       "name": "Vicious Mockery",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 0,
       "school": "EN",
@@ -13573,7 +13573,7 @@
     },
     {
       "name": "Wall of Fire",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 4,
       "school": "EV",
@@ -13616,7 +13616,7 @@
     },
     {
       "name": "Wall of Force",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -13654,7 +13654,7 @@
     },
     {
       "name": "Wall of Ice",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "EV",
@@ -13675,7 +13675,7 @@
     },
     {
       "name": "Wall of Stone",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 5,
       "school": "EV",
@@ -13721,7 +13721,7 @@
     },
     {
       "name": "Wall of Thorns",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -13742,7 +13742,7 @@
     },
     {
       "name": "Warding Bond",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "A",
@@ -13780,7 +13780,7 @@
     },
     {
       "name": "Water Breathing",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -13836,7 +13836,7 @@
     },
     {
       "name": "Water Walk",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "T",
@@ -13912,7 +13912,7 @@
     },
     {
       "name": "Web",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "C",
@@ -13956,7 +13956,7 @@
     },
     {
       "name": "Weird",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "I",
@@ -13997,7 +13997,7 @@
     },
     {
       "name": "Wind Walk",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "T",
@@ -14016,7 +14016,7 @@
     },
     {
       "name": "Wind Wall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 3,
       "school": "EV",
@@ -14055,7 +14055,7 @@
     },
     {
       "name": "Wish",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 9,
       "school": "C",
@@ -14100,7 +14100,7 @@
     },
     {
       "name": "Word of Recall",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 6,
       "school": "C",
@@ -14156,7 +14156,7 @@
     },
     {
       "name": "Zone of Truth",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "level": 2,
       "school": "EN",
