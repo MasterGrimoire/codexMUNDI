@@ -876,7 +876,7 @@
     },
     {
       "name": "Barbarian",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 12,
       "proficiency": "Strength, Constitution, Animal Handling, Athletics, Intimidation, Nature, Perception, Survival",
@@ -1720,7 +1720,7 @@
     },
     {
       "name": "Bard",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Dexterity, Charisma, Acrobatics, Animal Handling, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Religion, Sleight of Hand, Stealth, Survival",
@@ -2464,7 +2464,7 @@
     },
     {
       "name": "Cleric",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Wisdom, Charisma, History, Insight, Medicine, Persuasion, Religion",
@@ -3995,7 +3995,7 @@
     },
     {
       "name": "Druid",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Intelligence, Wisdom, Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, Survival",
@@ -4883,7 +4883,7 @@
     },
     {
       "name": "Fighter",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 10,
       "proficiency": "Strength, Constitution, Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, Survival",
@@ -6592,7 +6592,7 @@
     },
     {
       "name": "Monk",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Strength, Dexterity, Acrobatics, Athletics, History, Insight, Religion, Stealth",
@@ -8097,7 +8097,7 @@
     },
     {
       "name": "Paladin",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 10,
       "proficiency": "Wisdom, Charisma, Athletics, Insight, Intimidation, Medicine, Persuasion, Religion",
@@ -9278,7 +9278,7 @@
     },
     {
       "name": "Ranger",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 10,
       "proficiency": "Strength, Dexterity, Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival",
@@ -12631,7 +12631,7 @@
     },
     {
       "name": "Rogue",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Dexterity, Intelligence, Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance. Persuasion, Sleight of Hand, Stealth",
@@ -13685,7 +13685,7 @@
     },
     {
       "name": "Sorcerer",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 6,
       "proficiency": "Constitution, Charisma, Arcana, Deception, Insight, Intimidation, Persuasion, Religion",
@@ -15355,7 +15355,7 @@
     },
     {
       "name": "Warlock",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 8,
       "proficiency": "Wisdom, Charisma, Arcana, Deception, History, Intimidation, Investigation, Nature, Religion",
@@ -16419,7 +16419,7 @@
     },
     {
       "name": "Wizard",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "hd": 6,
       "proficiency": "Intelligence, Wisdom, Arcana, History, Insight, Investigation, Medicine, Religion",
