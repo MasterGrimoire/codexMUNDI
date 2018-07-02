@@ -1,4 +1,5 @@
-# Grimoire 5e JSON Data File Repository
+# The Codex Mundi 
+##### A JSON Data File Repository
 
 This is an ongoing project to keep track of D&amp;D files. These files have been designed to be compatible with the 'Grimoire 5e' iOS app (release date sometime in Q3 2018 as I'm told by the developer).
 
