@@ -12,7 +12,7 @@
           "• As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "proficiency": "acrobatics",
         "modifier": {
@@ -32,7 +32,7 @@
           "• As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "modifier": [
           {
@@ -57,7 +57,7 @@
           "• You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165",
         "modifier": {
           "category": "ability score",
@@ -78,7 +78,7 @@
           "• Over the course of any short rest, you can temporarily improve the potency of one potion of healing of any rarity. To use this benefit, you must have alchemist’s supplies with you, and the potion must be within reach. If the potion is drunk no more than 1 hour after the short rest ends, the creature drinking the potion can forgo the potion’s die roll and regains the maximum number of hit points that the potion can restore."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 4",
         "modifier": {
           "category": "ability score",
@@ -97,7 +97,7 @@
           "• Other creatures don’t gain advantage on attack rolls against you as a result of being unseen by you."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165",
         "modifier": {
           "category": "bonus",
@@ -116,7 +116,7 @@
           "• You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "proficiency": "animal handling",
         "modifier": {
@@ -136,7 +136,7 @@
           "• You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "modifier": [
           {
@@ -161,7 +161,7 @@
           "• You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "proficiency": "arcana",
         "modifier": {
@@ -181,7 +181,7 @@
           "• You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "modifier": [
           {
@@ -208,7 +208,7 @@
           "• You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165",
         "modifier": {
           "category": "ability score",
@@ -229,7 +229,7 @@
           "• You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165",
         "modifier": {
           "category": "ability score",
@@ -249,7 +249,7 @@
           "• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "proficiency": "intimidation",
         "modifier": {
@@ -270,7 +270,7 @@
           "• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "modifier": [
           {
@@ -296,7 +296,7 @@
           "• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "proficiency": "intimidation",
         "modifier": {
@@ -317,7 +317,7 @@
           "• You gain proficiency in the Intimidation skill. If you’re already proficient in it, your proficiency bonus is doubled for any check you make with it."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "modifier": [
           {
@@ -342,7 +342,7 @@
           "• When you make an opportunity attack with the weapon, you have advantage on the attack roll."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 2"
       },
       {
@@ -354,7 +354,7 @@
           " When you use this ability, you can't use your Lucky racial trait before the end of your next turn."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 73"
       },
       {
@@ -369,7 +369,7 @@
           "• You count as if you were one size larger for the purpose of determining your carrying capacity."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "proficiency": "athletics",
         "modifier": {
@@ -389,7 +389,7 @@
           "• You count as if you were one size larger for the purpose of determining your carrying capacity."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 1",
         "modifier": [
           {
@@ -412,7 +412,7 @@
           "• You gain proficiency with thieves’ tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 4",
         "modifier": {
           "category": "ability score",
@@ -426,7 +426,7 @@
           " If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed)."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165"
       },
       {
@@ -440,7 +440,7 @@
           "• You learn the speak with animals spell and can cast it at will, without expending a spell slot. You also learn the animal friendship spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Intelligence is your spellcasting ability for these spells."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "proficiency": "animal handling"
       },
@@ -455,7 +455,7 @@
           "• You learn the speak with animals spell and can cast it at will, without expending a spell slot. You also learn the animal friendship spell, and you can cast it once with this feat, without expending a spell slot. You regain the ability to cast it in this way when you finish a long rest. Intelligence is your spellcasting ability for these spells."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 1",
         "modifier": {
           "category": "skills",
@@ -474,7 +474,7 @@
           "• When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165"
       },
       {
@@ -484,7 +484,7 @@
           "When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165"
       },
       {
@@ -499,7 +499,7 @@
           "• If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "persuasion",
         "modifier": {
@@ -519,7 +519,7 @@
           "• If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -543,7 +543,7 @@
           "• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -561,7 +561,7 @@
           "• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -579,7 +579,7 @@
           "• Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds if it can’t hear or see you. On a failed save, a target becomes frightened for 1 minute. If the frightened target takes any damage, it can repeat the saving throw, ending the effect on itself on a success."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -599,7 +599,7 @@
           "• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. "
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -619,7 +619,7 @@
           "• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. "
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -639,7 +639,7 @@
           "• You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. "
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -653,7 +653,7 @@
           "You sprout draconic wings. With your wings, you have a flying speed of 20 feet if you aren’t wearing heavy armor and aren’t exceeding your carrying capacity."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 2"
       },
       {
@@ -673,7 +673,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: clairvoyance"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -693,7 +693,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: clairvoyance"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -713,7 +713,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: conjure animals"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -733,7 +733,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: revivify"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -753,7 +753,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: Leomund's tiny hut"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -773,7 +773,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: fabricate"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -793,7 +793,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: teleportation circle"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -813,7 +813,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: tongues"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -833,7 +833,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: protection from energy"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -853,7 +853,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: nondetection"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -873,7 +873,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: sleet storm"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -893,7 +893,7 @@
           " At 9th level and higher, your mark's power increases again, becoming a greater dragonmark. You learn the following spell: magic circle"
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana - Eberron, p. 5"
       },
       {
@@ -903,7 +903,7 @@
           "You learn more of the spells typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74"
       },
       {
@@ -918,7 +918,7 @@
           "• You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 165"
       },
       {
@@ -935,7 +935,7 @@
           "• You can search for traps while traveling at a normal pace, instead of only at a slow pace."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -948,7 +948,7 @@
           "• When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2)."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166",
         "modifier": {
           "category": "ability score",
@@ -966,7 +966,7 @@
           "• Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of 1)."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -981,7 +981,7 @@
           " You can select this feat multiple times. Each time you do so, you must choose a different damage type."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -992,7 +992,7 @@
           " You can select this feat multiple times. Each time you do so, you must choose a different damage type."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -1003,7 +1003,7 @@
           " You can select this feat multiple times. Each time you do so, you must choose a different damage type."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -1014,7 +1014,7 @@
           " You can select this feat multiple times. Each time you do so, you must choose a different damage type."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -1025,7 +1025,7 @@
           " You can select this feat multiple times. Each time you do so, you must choose a different damage type."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 166"
       },
       {
@@ -1039,7 +1039,7 @@
           "• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1057,7 +1057,7 @@
           "• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1075,7 +1075,7 @@
           "• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1093,7 +1093,7 @@
           "• Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma, you can reroll one of the dice once."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1112,7 +1112,7 @@
           "• You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "insight",
         "modifier": {
@@ -1132,7 +1132,7 @@
           "• You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -1156,7 +1156,7 @@
           "• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 2",
         "proficiency": "deception, persuasion",
         "modifier": {
@@ -1175,7 +1175,7 @@
           "• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 2",
         "modifier": [
           {
@@ -1203,7 +1203,7 @@
           "• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 2",
         "proficiency": "persuasion",
         "modifier": [
@@ -1228,7 +1228,7 @@
           "• You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 2",
         "proficiency": "persuasion",
         "modifier": [
@@ -1253,7 +1253,7 @@
           "• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1271,7 +1271,7 @@
           "• Immediately after you take damage, you can use a reaction to magically become invisible until the end of your next turn or until you attack, deal damage, or force someone to make a saving throw. Once you use this ability, you can’t do so again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1299,7 +1299,7 @@
           "• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 2"
       },
       {
@@ -1315,7 +1315,7 @@
           "•  You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1335,7 +1335,7 @@
           "•  You learn the misty step spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1361,7 +1361,7 @@
           "• An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 3"
       },
       {
@@ -1377,7 +1377,7 @@
           "• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1397,7 +1397,7 @@
           "• Whenever you cast a spell that deals fire damage, you can cause flames to wreathe you until the end of your next turn. The flames don’t harm you or your possessions, and they shed bright light out to 30 feet and dim light for an additional 30 feet. While the flames are present, any creature within 5 feet of you that hits you with a melee attack takes 1d4 fire damage."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 74",
         "modifier": {
           "category": "ability score",
@@ -1418,7 +1418,7 @@
           "• During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 4",
         "modifier": {
           "category": "ability score",
@@ -1443,7 +1443,7 @@
           "• The creature has disadvantage on Dexterity saving throws."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
       {
@@ -1456,7 +1456,7 @@
           "• Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
       {
@@ -1474,7 +1474,7 @@
           "• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1496,7 +1496,7 @@
           "• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1518,7 +1518,7 @@
           "• Whenever you make an Intelligence (Arcana, History, Nature, or Religion) check to recall information about your chosen foes, you add double your proficiency bonus to the check, even if you’re not normally proficient."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1535,7 +1535,7 @@
           "• As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6+4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
       {
@@ -1549,7 +1549,7 @@
           "• You gain proficiency with heavy armor."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1567,7 +1567,7 @@
           "• While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1586,7 +1586,7 @@
           "• When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "history",
         "modifier": {
@@ -1606,7 +1606,7 @@
           "• When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -1630,7 +1630,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1648,7 +1648,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1666,7 +1666,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1684,7 +1684,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1702,7 +1702,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1720,7 +1720,7 @@
           "• When you make an attack roll, an ability check, or a saving throw, you can do so with advantage. Once you use this ability, you can’t use it again until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3",
         "modifier": {
           "category": "ability score",
@@ -1740,7 +1740,7 @@
           "• You have advantage on saving throws against being poisoned."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -1754,7 +1754,7 @@
           "You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
       {
@@ -1769,7 +1769,7 @@
           "• You can take the Search action as a bonus action."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "investigation",
         "modifier": {
@@ -1789,7 +1789,7 @@
           "• You can take the Search action as a bonus action."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -1816,7 +1816,7 @@
           "• You can accurately recall anything you have seen or heard within the past month."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1833,7 +1833,7 @@
           "• You gain proficiency with light armor."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1850,7 +1850,7 @@
           "• You gain proficiency with light armor."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1869,7 +1869,7 @@
           "• You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167",
         "modifier": {
           "category": "ability score",
@@ -1885,7 +1885,7 @@
           " You regain your expended luck points when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
       {
@@ -1900,7 +1900,7 @@
           "• You have advantage on saving throws against spells cast by creatures within 5 feet of you."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1911,7 +1911,7 @@
           " Your spellcasting ability for these spells is Charisma."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1922,7 +1922,7 @@
           " Your spellcasting ability for these spells is Wisdom."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1933,7 +1933,7 @@
           " Your spellcasting ability for these spells is Wisdom."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1944,7 +1944,7 @@
           " Your spellcasting ability for these spells is Charisma."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1955,7 +1955,7 @@
           " Your spellcasting ability for these spells is Charisma."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1966,7 +1966,7 @@
           " Your spellcasting ability for these spells is Intelligence."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1979,7 +1979,7 @@
           "• You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -1994,7 +1994,7 @@
           "• If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 4",
         "modifier": {
           "category": "ability score",
@@ -2013,7 +2013,7 @@
           "• During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "medicine",
         "modifier": {
@@ -2033,7 +2033,7 @@
           "• During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -2057,7 +2057,7 @@
           "• When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -2072,7 +2072,7 @@
           "• When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "proficiency": "intimidation",
         "modifier": {
@@ -2092,7 +2092,7 @@
           "• When you take the Attack action on your turn, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 2",
         "modifier": [
           {
@@ -2117,7 +2117,7 @@
           "• When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "modifier": {
           "category": "bonus",
@@ -2135,7 +2135,7 @@
           "• You gain proficiency with medium armor and shields."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "modifier": {
           "category": "ability score",
@@ -2153,7 +2153,7 @@
           "• You gain proficiency with medium armor and shields."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "modifier": {
           "category": "ability score",
@@ -2172,7 +2172,7 @@
           "• If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -2187,7 +2187,7 @@
           "• You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "proficiency": "nature",
         "modifier": {
@@ -2207,7 +2207,7 @@
           "• You learn the druidcraft and detect poison and disease spells. You can cast detect poison and disease once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "modifier": [
           {
@@ -2232,7 +2232,7 @@
           "• You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "modifier": [
           {
@@ -2257,7 +2257,7 @@
           "• You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "modifier": [
           {
@@ -2277,7 +2277,7 @@
           "As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 3"
       },
       {
@@ -2293,7 +2293,7 @@
           "• Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -2313,7 +2313,7 @@
           "• Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -2332,7 +2332,7 @@
           "• Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "proficiency": "perception",
         "modifier": {
@@ -2352,7 +2352,7 @@
           "• Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "modifier": [
           {
@@ -2377,7 +2377,7 @@
           "• While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "proficiency": "performance",
         "modifier": {
@@ -2397,7 +2397,7 @@
           "• While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "modifier": [
           {
@@ -2420,7 +2420,7 @@
           "• While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168"
       },
       {
@@ -2434,7 +2434,7 @@
           "• Choose one skill in which you have proficiency. You gain expertise in that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefitting from a feature, such as Expertise, that doubles your proficiency bonus."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75"
       },
       {
@@ -2449,7 +2449,7 @@
           "• As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "proficiency": "sleight of hand",
         "modifier": {
@@ -2469,7 +2469,7 @@
           "• As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "modifier": [
           {
@@ -2492,7 +2492,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "charisma",
         "modifier": {
@@ -2510,7 +2510,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "constitution",
         "modifier": {
@@ -2528,7 +2528,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "dexterity",
         "modifier": {
@@ -2546,7 +2546,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "intelligence",
         "modifier": {
@@ -2564,7 +2564,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "strength",
         "modifier": {
@@ -2582,7 +2582,7 @@
           "• You gain proficiency in saving throws using the chosen ability."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 168",
         "proficiency": "wisdom",
         "modifier": {
@@ -2599,7 +2599,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the bard spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2611,7 +2611,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the cleric spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2623,7 +2623,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the druid spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2635,7 +2635,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the sorcerer spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2647,7 +2647,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the warlock spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2659,7 +2659,7 @@
           " If you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the wizard spell list, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2668,7 +2668,7 @@
           "Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2682,7 +2682,7 @@
           "• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t do so again until you roll initiative at the start of combat or until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -2700,7 +2700,7 @@
           "• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t do so again until you roll initiative at the start of combat or until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -2718,7 +2718,7 @@
           "• When a creature you can see hits you with an attack roll, you can use your reaction to force that creature to reroll. Once you use this ability, you can’t do so again until you roll initiative at the start of combat or until you finish a short or long rest."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": {
           "category": "ability score",
@@ -2737,7 +2737,7 @@
           "• When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 169"
       },
       {
@@ -2752,7 +2752,7 @@
           "• Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -2767,7 +2767,7 @@
           "• If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -2785,7 +2785,7 @@
           "• When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "proficiency": "deception",
         "modifier": {
@@ -2808,7 +2808,7 @@
           "• When you take the Attack action on your turn, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 3",
         "modifier": [
           {
@@ -2827,7 +2827,7 @@
           "You gain proficiency in any combination of three skills or tools of your choice."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -2843,7 +2843,7 @@
           "• Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -2860,7 +2860,7 @@
           "• As a bonus action on your turn, you can increase your reach with a spear by 5 feet for the rest of your turn."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats, p. 3"
       },
       {
@@ -2876,7 +2876,7 @@
           "• You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -2894,7 +2894,7 @@
           "• You have advantage on any Strength 9Athletics) or Dexterity (Acrobatics) check you makes to escape from being grappled."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": [
           {
@@ -2922,7 +2922,7 @@
           "• You have advantage on any Strength 9Athletics) or Dexterity (Acrobatics) check you makes to escape from being grappled."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75",
         "modifier": [
           {
@@ -2947,7 +2947,7 @@
           "• If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "proficiency": "stealth",
         "modifier": {
@@ -2967,7 +2967,7 @@
           "• If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "modifier": [
           {
@@ -2992,7 +2992,7 @@
           "• You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "proficiency": "survival",
         "modifier": {
@@ -3012,7 +3012,7 @@
           "• You learn the alarm spell. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "modifier": [
           {
@@ -3051,7 +3051,7 @@
           "• When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -3066,7 +3066,7 @@
           "• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "proficiency": "religion",
         "modifier": {
@@ -3086,7 +3086,7 @@
           "• You learn the thaumaturgy and detect evil and good spells. You can cast detect evil and good once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Skills, p. 4",
         "modifier": [
           {
@@ -3105,7 +3105,7 @@
           "Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -3121,7 +3121,7 @@
           "• When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170"
       },
       {
@@ -3134,7 +3134,7 @@
           "• You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170",
         "modifier": {
           "category": "ability score",
@@ -3151,7 +3151,7 @@
           "• You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Player's Handbook, p. 170",
         "modifier": {
           "category": "ability score",
@@ -3181,7 +3181,7 @@
           "Weather Sensor: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 4",
         "modifier": {
           "category": "ability score",
@@ -3211,7 +3211,7 @@
           "Weather Sensor: When used as an action, this device predicts weather conditions in a 1-mile radius over the next 4 hours, showing one symbol (clouds, sun/moon, rain, or snow) for each hour."
         ],
 	"srdContent": false,
-	"module": "unearthedArcana"
+	"module": "unearthedArcana",
 	"source": "Unearthed Arcana: Feats for Races, p. 4",
         "modifier": {
           "category": "ability score",
@@ -3225,7 +3225,7 @@
           "You learn the magic of the primeval woods, which are revered and protected by your people. You learn one druid cantrip of your choice. You also learn the longstrider and pass without trace spells, each of which you can cast once without expending a spell slot. You regain the ability to cast these two spells in this way when you finish a long rest. Wisdom is your spellcasting ability for all three spells."
         ],
 	"srdContent": false,
-	"module": "core"
+	"module": "core",
 	"source": "Xanathar's Guide to Everything, p. 75"
       }
     ]
