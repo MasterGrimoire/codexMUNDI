@@ -225,12 +225,13 @@ con | Integer | 1 | Y |
 int | Integer | 1 | Y |
 wis | Integer | 1 | Y |
 cha | Integer | 1 | Y |
-skill | String | "Perception +5, Stealth +3" | Y |
-immune | String | "cold" | Y | Damage that the creature is immune to
-vulnerable | String | "cold" | Y | Damage that the creature is vulnerable to
-resist | String | "cold" | Y | Damage that the creature is resistant to
-conditionImmune | String | "cold" | Y | Conditions that the creature is immune to
-senses | String | "darkvision 60 ft." | Y |
+save | String | "Intelligence +5" | N |
+skill | String | "Perception +5, Stealth +3" | N |
+immune | String | "cold" | N | Damage that the creature is immune to
+vulnerable | String | "cold" | N | Damage that the creature is vulnerable to
+resist | String | "cold" | N | Damage that the creature is resistant to
+conditionImmune | String | "cold" | N | Conditions that the creature is immune to
+senses | String | "darkvision 60 ft." | N |
 passive | Integer | 15 | Y | Passive perception
 languages | String | "Common" | Y |
 cr | String | "1/4" | Y | Challange rating is as a string due to 1/2, 1/4, etc. ratings
