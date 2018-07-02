@@ -1,7 +1,7 @@
 {
   "background": [{
       "name": "Acolyte",
-      "srdContent": false,
+      "srdContent": true,
       "module": "core",
       "proficiency": "Insight, Religion",
       "trait": [{
