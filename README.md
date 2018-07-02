@@ -23,22 +23,24 @@ It also contains all the monsters, items, and character options from the publish
 
 ## How to Contribute
 
-If you are not familiar with the git workflow, I suggest you do some reading up on it. It seems daunting, but it's really quite easy once you get the hang of it. Once you are ready to make some contributions or changes, request permission to become a collaborator. The email to contact is grimoire (dot) codex (dot) master @ gmail (dot) com.
+If you are not familiar with the git workflow, I suggest you do some reading up on it. It seems daunting, but it's really quite easy once you get the hang of it. Once you are ready to make some contributions or changes, fork the repo, make your changes in your own repo and then click "New Pull Request". Make sure that 
 
-Afterwards, pull the repo. Make sure to create your own branch with a descriptive name. Branch names should have the following format:
+Afterwards, pull the repo. Please make sure to create your own branch with a descriptive name, in the fork. Branch names should have the following format:
 
-    your username/category/feature_name
+    category/feature_name
 
     example if adding one item:
-    MasterGrimoire/items/vorpal_sword
+    items/vorpal_sword
 
     example if adding several spells:
-    MasterGrimoire/spells/updating_three_spells
+    spells/adding_three_spells
 
     example if making a prearranged large feature
-    MasterGrimoire/monsters/mordenkainens_tome_of_foes
+    monsters/mordenkainens_tome_of_foes_part2
 
-From here, make your changes in your branch and push this to the repo. Note: when adding objects to a file, it is preferred that they are added at the end of the file. It is good practice to keep a limit on changes. Unwieldy, large PR's must be discussed beforehand; generally, however, they will be rejected. Adding five objects to a file is considered acceptable; more is considered unwieldy. If comments are made to your PR, please address them in a timely fashion. After a PR has been approved, it will be merged in by a moderator and that branch will be deleted. As such, make sure to not have anything else that you need there.
+Furthermore, please make sure that your commits are clear.
+
+Note: when adding objects to a file, it is preferred that they are added at the end of the file. It is good practice to keep a limit on changes. Unwieldy, large PR's must be discussed beforehand; generally, however, they will be rejected. Adding five objects to a file is considered acceptable; more is considered unwieldy. If comments are made to your PR, please address them in a timely fashion. After a PR has been approved, it will be merged in by a moderator and that branch will be deleted. As such, make sure to not have anything else that you need there.
 
 **Review turnaround times:** I will strive to get to all reviews within a week of them being posted. Most of the time it will be sooner. After a week, you may ping me to ask to for a review if there's been no activity.
 
