@@ -242,6 +242,7 @@ extraDetails | String Array | ["String one", "String two"]| N | Extra details on
 spells | String | "command, comprehend languages, aid" | N | List of spells available to creature, seperated by a comma and a space
 slots | Integer Array | [3, 2, 2, 1] | N | A list of the number of spell slots
 source | String | "Player's Handbook p. 123" | N | It is preferred to have this included, for ease of location of item in source material.
+environment | String | "underdark, urban" | N | Comma separated string of environments where the creature can be found. If left out, it will be assume creature can be found in any environment.
 
 
 ### Custom JSON Objects
