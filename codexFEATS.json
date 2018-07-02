@@ -1442,7 +1442,7 @@
           " ",
           "• The creature has disadvantage on Dexterity saving throws."
         ],
-	"srdContent": false,
+	"srdContent": true,
 	"module": "core",
 	"source": "Player's Handbook, p. 167"
       },
