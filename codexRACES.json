@@ -3132,7 +3132,7 @@
       },
       {
         "name": "Human",
-	"srdContent": false,
+	"srdContent": true,
 	"module": "core",
         "size": "M",
         "speed": 30,
