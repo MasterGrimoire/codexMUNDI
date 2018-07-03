@@ -286,7 +286,7 @@ FEATURE JSON OBJECT
 
 Tag | Content Type | Example | Required | Notes
 ----------- | -----------| ----------- | ----------- | -----------
-optional | true | 1 | N | The level at which the feature is available
+optional | Boolean | true | N | The level at which the feature is available
 name | String | "Arcane Tradition: School of Abjuration" | Y |
 text | String Array | ["Example one", "Example two"] | Y |
 source | String | "Player's Handbook p. 123" | N | It is preferred to have this included, for ease of location of item in source material.
